@@ -1,0 +1,12 @@
+📊 Project Summary – YouTube Trending Video Analytics
+This project focuses on analyzing trending video data from YouTube to understand what factors influence video popularity and user engagement.
+The dataset was collected from Kaggle and includes details such as video title, category, views, likes, comments, duration, and publishing time.
+First, the data was cleaned and processed using Python libraries like Pandas. Missing values were handled, unnecessary columns were removed, and new features such as publish hour, video length, and engagement rate were created to improve analysis.
+Next, the cleaned data was analyzed using MySQL. Various SQL queries were used to identify important insights such as:
+Top video categories based on views 
+Best time to publish videos 
+Most viewed videos 
+Engagement rate across categories 
+Finally, a dashboard was created using Microsoft Power BI to visualize the insights in an interactive way. The dashboard includes charts showing category performance, trends over time, and user engagement patterns.
+The project demonstrates how data analysis techniques can be used to extract meaningful insights from real-world data and help content creators improve their strategies.
+
